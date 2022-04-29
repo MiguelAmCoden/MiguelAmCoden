@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MiguelAmCoden
+- 👀 I’m interested in Games
+- 🌱 I’m currently learning Web Coding
